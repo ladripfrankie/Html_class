@@ -1,0 +1,60 @@
+p{
+  color:turquoise;
+  font-size: 18px;
+}
+p{
+  background: lightblue;
+  text-align: center;
+}
+button{
+  color:red;
+}
+
+td,th{
+
+  border: 2px dotted red;
+  color:red;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
+}
+table{
+  width:80%;
+  border-collapse: collapse;
+  margin: 10px;
+}
+ul{
+  color: white;
+  background: lightblue;
+  text-align: left;
+}
+h1{
+  text-align: center;
+  color: black;
+  font-size: 10px;
+}
+ol{ color: red;
+  background: lightblue;
+  text-align: left;
+}
+
+li,a{
+float: left;
+  padding: 10px;
+}
+h1{color: red;
+text-align: left;
+  float: none;font-size: 20px;
+}
+h2{
+color: black;
+  font-size: 20px;
+}
+body{
+  background-color:white;
+}
+
+img{
+  height: 500px;
+  width: 100&;
+}

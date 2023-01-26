@@ -1,0 +1,41 @@
+
+p{color: blue;
+text-align: center;
+padding: 10px;
+font-size: 20px;
+background-color: blue;}
+h1{text-align: center;
+padding: 10px;}
+li,a{
+  float: left;
+  padding: 40px;
+  font-size: 20px;
+}
+ul{
+   color: black;
+  background: lightblue;
+  text-align: center;
+}
+ol{
+  float: none;
+  padding: 10px;
+  font-size: 10px;
+}
+.bikes{
+       border: 5px solid black;
+      background: white;
+      padding: 20px;
+      margin: 20px;
+      text-align: center;
+    }
+.button{
+  background: lightblue;
+  border: 2px;
+  text-align: center;
+}
+footer{
+  background-color:blue;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
